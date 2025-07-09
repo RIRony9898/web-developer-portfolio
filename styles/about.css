@@ -1,0 +1,15 @@
+.about {
+  text-align: center;
+  background-color: #fff8f3;
+  margin: 130px 230px;
+}
+
+/* .about-content {
+  background-color: white;
+} */
+
+.about-items {
+  display: flex;
+  justify-content: space-around;
+  gap: 20px;
+}
