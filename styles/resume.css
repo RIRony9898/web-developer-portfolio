@@ -1,0 +1,33 @@
+.resume-container {
+  margin-top: 130px;
+}
+
+.resume {
+  text-align: center;
+}
+
+.resume-content {
+  display: flex;
+  gap: 24px;
+  margin-top: 113px;
+}
+
+.resume-item {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.resume-item-title {
+  margin-bottom: 10px;
+}
+
+.resume-item-subtitle {
+  margin-bottom: 20px;
+}
+
+.resume-btn {
+  margin-top: 50px;
+  text-align: center;
+}
+
+

@@ -1,0 +1,24 @@
+/* hire me section */
+.hire-me-container {
+  margin: 130px 230px;
+}
+.hire-me {
+  text-align: center;
+  margin-bottom: 50px;
+}
+.hire-me-form form {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+.hire-me-form input[type="text"],
+.hire-me-form input[type="email"],
+.hire-me-form textarea {
+  width: 100%;
+  padding: 18px 30px;
+  border-radius: 5px;
+  border: none;
+  background-color: #fff;
+  font-size: 16px;
+  color: #757575;
+}

@@ -1,0 +1,38 @@
+footer {
+  background-color: #fff8f3;
+  margin-top: 130px;
+  padding: 130px 230px;
+}
+
+.footer-content {
+  display: flex;
+  gap: 117px;
+}
+
+.footer-column {
+  width: 50%;
+}
+
+.social-links {
+  margin-top: 30px;
+}
+
+.social-links a {
+  margin-right: 25px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  margin-top: 28px;
+}
+
+form input,
+textarea {
+  padding: 18px 30px;
+  border-radius: 5px;
+  border: none;
+}
+
+
